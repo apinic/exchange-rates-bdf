@@ -1,0 +1,29 @@
+{
+  "name": "exchange-rates-bdf",
+  "version": "0.0.1",
+  "description": "Exchange Rates from BDF bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinic/exchange-rates-bdf.git"
+  },
+  "keywords": [
+    "bdf",
+    "exchange",
+    "rates",
+    "nicaragua"
+  ],
+  "author": "Paulo McNally",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/apinic/exchange-rates-bdf/issues"
+  },
+  "homepage": "https://github.com/apinic/exchange-rates-bdf",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.57.0"
+  }
+}
